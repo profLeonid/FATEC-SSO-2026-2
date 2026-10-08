@@ -31,7 +31,7 @@ Execute os comandos abaixo no terminal do Linux para preparar o ambiente de aces
 # Atualizar a lista de pacotes e instalar o servidor SSH
 sudo apt update && sudo apt install ssh -y
 
-# Habilitar e iniciar o serviço do SSH
+# Verificar o serviço do SSH
 sudo systemctl status sshd.service
 
 # Criar os usuários para os testes de acesso

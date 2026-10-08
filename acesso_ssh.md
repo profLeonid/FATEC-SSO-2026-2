@@ -29,7 +29,8 @@ Execute os comandos abaixo no terminal do Linux para preparar o ambiente de aces
 
 ```bash
 # Atualizar a lista de pacotes e instalar o servidor SSH
-sudo apt update && sudo apt install ssh -y
+sudo apt update
+sudo apt install ssh -y
 
 # Verificar o serviço do SSH
 sudo systemctl status sshd.service

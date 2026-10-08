@@ -6,7 +6,7 @@ Roteiro prático instalação do servidor SSH no Linux (Firewall)
 
 ## 1. Configuração e Inicialização do Servidor Linux (FW)
 
-1. **Configurar as Placas de Rede** no seu software de virtualização (VirtualBox/VMware):
+1. **Configurar as Placas de Rede** no VirtualBox:
    - **Interface 1 (Primeira):** Modo NAT (para acesso à Internet).
    - **Interface 2 (Segunda):** Rede Interna (para comunicação com o cliente Windows).
 2. **Ligar a máquina** Linux (FW).

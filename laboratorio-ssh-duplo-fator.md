@@ -171,7 +171,6 @@ Abra uma **nova aba de terminal local** no MobaXterm (mantenha o console do serv
   Gere uma chave temporária diferente e use-a no teste. No terminal local do MobaXterm:
 
   ```bash
-  ssh-keygen -t ed25519 -f /drives/c/chaves/id_ed25519_falsa -N ""
   ssh -i /drives/c/chaves/id_ed25519_falsa -o IdentitiesOnly=yes nomealunosobrenome@192.168.0.1
   ```
 

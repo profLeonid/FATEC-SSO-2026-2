@@ -1,12 +1,12 @@
-# Laboratório Prático: Autenticação SSH com Duplo Fator (Chave Assimétrica + Senha)
+# Autenticação SSH com Duplo Fator (Chave Assimétrica + Senha)
 
 Este laboratório prático tem como objetivo configurar um ambiente de acesso SSH de alta segurança entre um cliente Windows e um servidor Debian 13. A autenticação exigirá, simultaneamente, uma chave assimétrica **E** a senha do usuário.
 
-> ⚠️ **AVISO:** Esta atividade será avaliada por meio de evidências. É obrigatório capturar **telas inteiras (sem recortes)** em cada etapa sinalizada com o marcador 📸. Imagens cortadas ou sem o prompt com seu nome de usuário personalizado serão descartadas.
+> **AVISO:** Esta atividade será avaliada por meio de evidências. É obrigatório capturar **telas inteiras (sem recortes)** em cada etapa sinalizada com o marcador. Imagens cortadas ou sem o prompt com seu nome de usuário personalizado serão descartadas.
 
 ---
 
-## 📋 Fluxo do Laboratório
+## Fluxo do Laboratório
 
 1. Validação de Conectividade e Internet
 2. Criação do Usuário no Servidor Firewall

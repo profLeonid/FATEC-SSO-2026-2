@@ -6,4 +6,5 @@
 5. [script servidor dns](https://github.com/profLeonid/fatec-scripts-2026/blob/main/dns.sh)
 6. Servidor WEB
 7. [Laboratório serviço SSH](./acesso_ssh.md)
-8. [Chave assimétrica](./laboratorio-ssh-duplo-fator.md)
+8. Conceitos de chave assimétrica
+9. [Chave assimétrica](./laboratorio-ssh-duplo-fator.md)

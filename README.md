@@ -5,6 +5,7 @@
 4. [script servidor dhcp](https://github.com/profLeonid/fatec-scripts-2026/blob/main/dhcp.sh)
 5. [script servidor dns](https://github.com/profLeonid/fatec-scripts-2026/blob/main/dns.sh)
 6. Servidor WEB
-7. [Laboratório serviço SSH](./acesso_ssh.md)
+7. [Laboratório serviço SSH](./atividades/acesso_ssh.md)
 8. Conceitos de chave assimétrica
-9. [Chave assimétrica](./laboratorio-ssh-duplo-fator.md)
+9. [Chave assimétrica](./atividades/laboratorio-ssh-duplo-fator.md)
+10. [laboratório docker](./atividades/laboratorio-docker.md)

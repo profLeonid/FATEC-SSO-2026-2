@@ -19,7 +19,7 @@ Abra o seu terminal e rode os comandos abaixo para confirmar que o Docker está 
 
 ```bash
 # Verificando se o WSL2 está ativo (Windows)
-wsl --list --verbose
+wsl --version
 
 # Verificando se o Docker está instalado
 docker --version

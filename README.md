@@ -9,3 +9,4 @@
 8. Conceitos de chave assimétrica
 9. [Chave assimétrica](./atividades/laboratorio-ssh-duplo-fator.md)
 10. [laboratório docker](./atividades/01%20-%20laboratorio-docker.md)
+11. [laboratório docker-compose](./atividades/02%20-%20laboratorio-docker-compose.md)

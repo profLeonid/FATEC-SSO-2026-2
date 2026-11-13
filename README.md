@@ -11,3 +11,4 @@
 10. [laboratório docker](./atividades/01%20-%20laboratorio-docker.md)
 11. [laboratório volumes](./atividades/02%20-%20laboratorio-volume.md)
 12. [laboratório docker-compose](./atividades/03%20-%20laboratorio-docker-compose.md)
+13. [Atividade Integrada P2](./atividades/atividade-integrada-p2.md)

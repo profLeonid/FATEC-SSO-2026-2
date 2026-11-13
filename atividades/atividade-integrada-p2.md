@@ -33,7 +33,7 @@ Este repositório contém as diretrizes, infraestrutura e especificações para 
 ### O que deve ser feito / Implementado
 * **Tecnologias e Arquitetura Front-end:**
   * Desenvolver a interface utilizando estritamente **HTML, CSS e JavaScript puro**, garantindo uma aplicação limpa, funcional e utilizável.
-  * Consumir a API feita com json-server e hospedada no **Render** (Pesquisar).
+  * Consumir a API feita com json-server e hospedada no **Render**. ([Container - json-server](https://github.com/fernandoleonid/container-json-server))
 * **Regras de Negócio e Funcionalidades:**
   * **Nicho do Delivery:** Adaptar o sistema para o segmento escolhido (ex: pizzaria, adega, lanchonete) com campos e regras específicas.
   * **Vitrine e Tela de Detalhes:** Criar a listagem de produtos com status de estoque e uma tela/modal dedicada para exibir informações aprofundadas ao clicar em um item.
